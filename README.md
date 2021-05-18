@@ -54,3 +54,4 @@
     └── main.js
 
 ## ERD
+https://lab.ssafy.com/95jjangjun/happyhouse-vue-spring/raw/master/0518%20%EA%B2%8C%EC%8B%9C%ED%8C%90%20%EA%B5%AC%EC%A1%B0.png
